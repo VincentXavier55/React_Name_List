@@ -1,0 +1,29 @@
+.App-header {
+  background-color: #222;
+  color: white;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.App-title {
+  font-size: 1.5em;
+  margin: 0;
+  padding: 20px;
+}
+
+.content{
+  padding: 20px;
+}
+
+.content .add-form, .content .list-table{
+  margin: 0 20px;
+}
+
+.content .add-name{
+  margin: 0;
+}
+
+.content .list-names table th, .content .list-names table td{
+  padding: 5px 10px;
+  border: 1px solid #CCC;
+}
